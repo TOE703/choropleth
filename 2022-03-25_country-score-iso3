@@ -1,0 +1,239 @@
+iso_alpha2,iso_alpha3,name,continent,score,sources_active,source
+AD,AND,Andorra,EU,4.3,4,https://www.travel-advisory.info/andorra,2022-03-25 08:20:37
+AE,ARE,United Arab Emirates,AS,3.7,6,https://www.travel-advisory.info/united-arab-emirates,2022-03-25 08:20:37
+AF,AFG,Afghanistan,AS,5,9,https://www.travel-advisory.info/afghanistan,2022-03-25 08:20:37
+AG,ATG,Antigua and Barbuda,NA,4.5,2,https://www.travel-advisory.info/antigua-and-barbuda,2022-03-25 08:20:37
+AI,AIA,Anguilla,NA,4,2,https://www.travel-advisory.info/anguilla,2022-03-25 08:20:37
+AL,ALB,Albania,EU,4.2,5,https://www.travel-advisory.info/albania,2022-03-25 08:20:37
+AM,ARM,Armenia,AS,3.9,7,https://www.travel-advisory.info/armenia,2022-03-25 08:20:37
+AO,AGO,Angola,AF,3,5,https://www.travel-advisory.info/angola,2022-03-25 08:20:37
+AR,ARG,Argentina,SA,4,6,https://www.travel-advisory.info/argentina,2022-03-25 08:20:37
+AS,ASM,American Samoa,OC,0,0,https://www.travel-advisory.info/american-samoa,2022-03-25 08:20:37
+AT,AUT,Austria,EU,4.3,4,https://www.travel-advisory.info/austria,2022-03-25 08:20:37
+AU,AUS,Australia,OC,3.5,4,https://www.travel-advisory.info/australia,2022-03-25 08:20:37
+AW,ABW,Aruba,NA,5,1,https://www.travel-advisory.info/aruba,2022-03-25 08:20:37
+AZ,AZE,Azerbaijan,AS,4,7,https://www.travel-advisory.info/azerbaijan,2022-03-25 08:20:37
+BA,BIH,Bosnia and Herzegovina,EU,4.2,6,https://www.travel-advisory.info/bosnia-and-herzegovina,2022-03-25 08:20:37
+BB,BRB,Barbados,NA,4,3,https://www.travel-advisory.info/barbados,2022-03-25 08:20:37
+BD,BGD,Bangladesh,AS,3.7,7,https://www.travel-advisory.info/bangladesh,2022-03-25 08:20:37
+BE,BEL,Belgium,EU,3.6,7,https://www.travel-advisory.info/belgium,2022-03-25 08:20:37
+BF,BFA,Burkina Faso,AF,4.1,7,https://www.travel-advisory.info/burkina-faso,2022-03-25 08:20:37
+BG,BGR,Bulgaria,EU,3.7,6,https://www.travel-advisory.info/bulgaria,2022-03-25 08:20:37
+BH,BHR,Bahrain,AS,4.2,6,https://www.travel-advisory.info/bahrain,2022-03-25 08:20:37
+BI,BDI,Burundi,AF,4.8,5,https://www.travel-advisory.info/burundi,2022-03-25 08:20:37
+BJ,BEN,Benin,AF,3.3,4,https://www.travel-advisory.info/benin,2022-03-25 08:20:37
+BL,BLM,Saint Barthélemy,NA,0,0,https://www.travel-advisory.info/saint-barthelemy,2022-03-25 08:20:37
+BM,BMU,Bermuda,NA,4.5,2,https://www.travel-advisory.info/bermuda,2022-03-25 08:20:37
+BN,BRN,Brunei,AS,4,4,https://www.travel-advisory.info/brunei,2022-03-25 08:20:37
+BO,BOL,Bolivia,SA,3.8,5,https://www.travel-advisory.info/bolivia,2022-03-25 08:20:37
+BR,BRA,Brazil,SA,3.8,8,https://www.travel-advisory.info/brazil,2022-03-25 08:20:37
+BS,BHS,Bahamas,NA,3.7,3,https://www.travel-advisory.info/bahamas,2022-03-25 08:20:37
+BT,BTN,Bhutan,AS,4.3,4,https://www.travel-advisory.info/bhutan,2022-03-25 08:20:37
+BW,BWA,Botswana,AF,3.8,4,https://www.travel-advisory.info/botswana,2022-03-25 08:20:37
+BY,BLR,Belarus,EU,4.9,7,https://www.travel-advisory.info/belarus,2022-03-25 08:20:37
+BZ,BLZ,Belize,NA,4,5,https://www.travel-advisory.info/belize,2022-03-25 08:20:37
+CA,CAN,Canada,NA,3.8,5,https://www.travel-advisory.info/canada,2022-03-25 08:20:37
+CC,CCK,Cocos Islands,SA,0,0,https://www.travel-advisory.info/cocos-islands,2022-03-25 08:20:37
+CD,COD,Democratic Republic of the Congo,AF,3.7,7,https://www.travel-advisory.info/democratic-republic-of-the-congo,2022-03-25 08:20:37
+CF,CAF,Central African Republic,AF,5,7,https://www.travel-advisory.info/central-african-republic,2022-03-25 08:20:37
+CG,COG,Republic of the Congo,AF,2.7,3,https://www.travel-advisory.info/republic-of-the-congo,2022-03-25 08:20:37
+CH,CHE,Switzerland,EU,4.3,4,https://www.travel-advisory.info/switzerland,2022-03-25 08:20:37
+CI,CIV,Ivory Coast,AF,3.7,6,https://www.travel-advisory.info/ivory-coast,2022-03-25 08:20:37
+CK,COK,Cook Islands,OC,5,1,https://www.travel-advisory.info/cook-islands,2022-03-25 08:20:37
+CL,CHL,Chile,SA,3.7,7,https://www.travel-advisory.info/chile,2022-03-25 08:20:37
+CM,CMR,Cameroon,AF,3.2,6,https://www.travel-advisory.info/cameroon,2022-03-25 08:20:37
+CN,CHN,China,AS,3.4,8,https://www.travel-advisory.info/china,2022-03-25 08:20:37
+CO,COL,Colombia,SA,3.3,6,https://www.travel-advisory.info/colombia,2022-03-25 08:20:37
+CR,CRI,Costa Rica,NA,4,6,https://www.travel-advisory.info/costa-rica,2022-03-25 08:20:37
+CU,CUB,Cuba,NA,3.8,4,https://www.travel-advisory.info/cuba,2022-03-25 08:20:37
+CV,CPV,Cape Verde,AF,2.8,4,https://www.travel-advisory.info/cape-verde,2022-03-25 08:20:37
+CX,CXR,Christmas Island,OC,0,0,https://www.travel-advisory.info/christmas-island,2022-03-25 08:20:37
+CY,CYP,Cyprus,EU,4.3,4,https://www.travel-advisory.info/cyprus,2022-03-25 08:20:37
+CZ,CZE,Czech Republic,EU,4,6,https://www.travel-advisory.info/czech-republic,2022-03-25 08:20:37
+DE,DEU,Germany,EU,3.7,6,https://www.travel-advisory.info/germany,2022-03-25 08:20:37
+DJ,DJI,Djibouti,AF,3,5,https://www.travel-advisory.info/djibouti,2022-03-25 08:20:37
+DK,DNK,Denmark,EU,4.3,4,https://www.travel-advisory.info/denmark,2022-03-25 08:20:37
+DM,DMA,Dominica,NA,4.5,2,https://www.travel-advisory.info/dominica,2022-03-25 08:20:37
+DO,DOM,Dominican Republic,NA,3.6,5,https://www.travel-advisory.info/dominican-republic,2022-03-25 08:20:37
+DZ,DZA,Algeria,AF,3.3,9,https://www.travel-advisory.info/algeria,2022-03-25 08:20:37
+EC,ECU,Ecuador,SA,3.8,6,https://www.travel-advisory.info/ecuador,2022-03-25 08:20:37
+EE,EST,Estonia,EU,3.6,5,https://www.travel-advisory.info/estonia,2022-03-25 08:20:37
+EG,EGY,Egypt,AF,3.6,9,https://www.travel-advisory.info/egypt,2022-03-25 08:20:37
+EH,ESH,Western Sahara,AF,0,0,https://www.travel-advisory.info/western-sahara,2022-03-25 08:20:37
+ER,ERI,Eritrea,AF,4,6,https://www.travel-advisory.info/eritrea,2022-03-25 08:20:37
+ES,ESP,Spain,EU,3.7,6,https://www.travel-advisory.info/spain,2022-03-25 08:20:37
+ET,ETH,Ethiopia,AF,3.9,8,https://www.travel-advisory.info/ethiopia,2022-03-25 08:20:37
+FI,FIN,Finland,EU,4,4,https://www.travel-advisory.info/finland,2022-03-25 08:20:37
+FJ,FJI,Fiji,OC,4.3,4,https://www.travel-advisory.info/fiji,2022-03-25 08:20:37
+FK,FLK,Falkland Islands,SA,0,0,https://www.travel-advisory.info/falkland-islands,2022-03-25 08:20:37
+FM,FSM,Micronesia,OC,4,1,https://www.travel-advisory.info/micronesia,2022-03-25 08:20:37
+FO,FRO,Faroe Islands,EU,0,0,https://www.travel-advisory.info/faroe-islands,2022-03-25 08:20:37
+FR,FRA,France,EU,3.6,7,https://www.travel-advisory.info/france,2022-03-25 08:20:37
+GA,GAB,Gabon,AF,3.5,4,https://www.travel-advisory.info/gabon,2022-03-25 08:20:37
+GB,GBR,United Kingdom,EU,3.6,7,https://www.travel-advisory.info/united-kingdom,2022-03-25 08:20:37
+GD,GRD,Grenada,NA,4.5,2,https://www.travel-advisory.info/grenada,2022-03-25 08:20:37
+GE,GEO,Georgia,AS,4.3,4,https://www.travel-advisory.info/georgia,2022-03-25 08:20:37
+GF,GUF,French Guiana,SA,4,1,https://www.travel-advisory.info/french-guiana,2022-03-25 08:20:37
+GG,GGY,Guernsey,EU,0,0,https://www.travel-advisory.info/guernsey,2022-03-25 08:20:37
+GH,GHA,Ghana,AF,3.4,5,https://www.travel-advisory.info/ghana,2022-03-25 08:20:37
+GI,GIB,Gibraltar,EU,0,0,https://www.travel-advisory.info/gibraltar,2022-03-25 08:20:37
+GL,GRL,Greenland,NA,0,0,https://www.travel-advisory.info/greenland,2022-03-25 08:20:37
+GM,GMB,Gambia,AF,2.5,4,https://www.travel-advisory.info/gambia,2022-03-25 08:20:37
+GN,GIN,Guinea,AF,3.5,4,https://www.travel-advisory.info/guinea,2022-03-25 08:20:37
+GP,GLP,Guadeloupe,NA,4,1,https://www.travel-advisory.info/guadeloupe,2022-03-25 08:20:37
+GQ,GNQ,Equatorial Guinea,AF,2.7,3,https://www.travel-advisory.info/equatorial-guinea,2022-03-25 08:20:37
+GR,GRC,Greece,EU,3.8,5,https://www.travel-advisory.info/greece,2022-03-25 08:20:37
+GS,SGS,South Georgia and the South Sandwich Islands,AN,0,0,https://www.travel-advisory.info/south-georgia-and-the-south-sandwich-islands,2022-03-25 08:20:37
+GT,GTM,Guatemala,NA,3.6,5,https://www.travel-advisory.info/guatemala,2022-03-25 08:20:37
+GU,GUM,Guam,OC,4,1,https://www.travel-advisory.info/guam,2022-03-25 08:20:37
+GW,GNB,Guinea-Bissau,AF,3,2,https://www.travel-advisory.info/guinea-bissau,2022-03-25 08:20:37
+GY,GUY,Guyana,SA,4,4,https://www.travel-advisory.info/guyana,2022-03-25 08:20:37
+HK,HKG,Hong Kong,AS,4,5,https://www.travel-advisory.info/hong-kong,2022-03-25 08:20:37
+HN,HND,Honduras,NA,3.4,5,https://www.travel-advisory.info/honduras,2022-03-25 08:20:37
+HR,HRV,Croatia,EU,3.7,6,https://www.travel-advisory.info/croatia,2022-03-25 08:20:37
+HT,HTI,Haiti,NA,4.4,7,https://www.travel-advisory.info/haiti,2022-03-25 08:20:37
+HU,HUN,Hungary,EU,3.8,5,https://www.travel-advisory.info/hungary,2022-03-25 08:20:37
+ID,IDN,Indonesia,AS,3.9,7,https://www.travel-advisory.info/indonesia,2022-03-25 08:20:37
+IE,IRL,Ireland,EU,3.8,4,https://www.travel-advisory.info/ireland,2022-03-25 08:20:37
+IL,ISR,Israel,AS,4,6,https://www.travel-advisory.info/israel,2022-03-25 08:20:37
+IM,IMN,Isle of Man,EU,0,0,https://www.travel-advisory.info/isle-of-man,2022-03-25 08:20:37
+IN,IND,India,AS,3.7,7,https://www.travel-advisory.info/india,2022-03-25 08:20:37
+IQ,IRQ,Iraq,AS,4.8,8,https://www.travel-advisory.info/iraq,2022-03-25 08:20:37
+IR,IRN,Iran,AS,4.2,6,https://www.travel-advisory.info/iran,2022-03-25 08:20:37
+IS,ISL,Iceland,EU,3.8,5,https://www.travel-advisory.info/iceland,2022-03-25 08:20:37
+IT,ITA,Italy,EU,3.6,7,https://www.travel-advisory.info/italy,2022-03-25 08:20:37
+JE,JEY,Jersey,EU,0,0,https://www.travel-advisory.info/jersey,2022-03-25 08:20:37
+JM,JAM,Jamaica,NA,3.8,5,https://www.travel-advisory.info/jamaica,2022-03-25 08:20:37
+JO,JOR,Jordan,AS,3.8,6,https://www.travel-advisory.info/jordan,2022-03-25 08:20:37
+JP,JPN,Japan,AS,3.7,6,https://www.travel-advisory.info/japan,2022-03-25 08:20:37
+KE,KEN,Kenya,AF,3.1,8,https://www.travel-advisory.info/kenya,2022-03-25 08:20:37
+KG,KGZ,Kyrgyzstan,AS,3.5,4,https://www.travel-advisory.info/kyrgyzstan,2022-03-25 08:20:37
+KH,KHM,Cambodia,AS,3.8,6,https://www.travel-advisory.info/cambodia,2022-03-25 08:20:37
+KI,KIR,Kiribati,OC,5,1,https://www.travel-advisory.info/kiribati,2022-03-25 08:20:37
+KM,COM,Comoros,AF,2.7,3,https://www.travel-advisory.info/comoros,2022-03-25 08:20:37
+KN,KNA,Saint Kitts and Nevis,NA,4,2,https://www.travel-advisory.info/saint-kitts-and-nevis,2022-03-25 08:20:37
+KP,PRK,North Korea,AS,4.4,5,https://www.travel-advisory.info/north-korea,2022-03-25 08:20:37
+KR,KOR,South Korea,AS,2.5,4,https://www.travel-advisory.info/south-korea,2022-03-25 08:20:37
+KW,KWT,Kuwait,AS,4,6,https://www.travel-advisory.info/kuwait,2022-03-25 08:20:37
+KY,CYM,Cayman Islands,NA,4.5,2,https://www.travel-advisory.info/cayman-islands,2022-03-25 08:20:37
+KZ,KAZ,Kazakhstan,AS,4,5,https://www.travel-advisory.info/kazakhstan,2022-03-25 08:20:37
+LA,LAO,Laos,AS,3.6,5,https://www.travel-advisory.info/laos,2022-03-25 08:20:37
+LB,LBN,Lebanon,AS,3.3,9,https://www.travel-advisory.info/lebanon,2022-03-25 08:20:37
+LC,LCA,Saint Lucia,NA,4.5,2,https://www.travel-advisory.info/saint-lucia,2022-03-25 08:20:37
+LI,LIE,Liechtenstein,EU,4,3,https://www.travel-advisory.info/liechtenstein,2022-03-25 08:20:37
+LK,LKA,Sri Lanka,AS,3.6,7,https://www.travel-advisory.info/sri-lanka,2022-03-25 08:20:37
+LR,LBR,Liberia,AF,3.5,4,https://www.travel-advisory.info/liberia,2022-03-25 08:20:37
+LS,LSO,Lesotho,AF,3,5,https://www.travel-advisory.info/lesotho,2022-03-25 08:20:37
+LT,LTU,Lithuania,EU,3.6,5,https://www.travel-advisory.info/lithuania,2022-03-25 08:20:37
+LU,LUX,Luxembourg,EU,4,3,https://www.travel-advisory.info/luxembourg,2022-03-25 08:20:37
+LV,LVA,Latvia,EU,3.6,5,https://www.travel-advisory.info/latvia,2022-03-25 08:20:37
+LY,LBY,Libya,AF,5,8,https://www.travel-advisory.info/libya,2022-03-25 08:20:37
+MA,MAR,Morocco,AF,3.1,7,https://www.travel-advisory.info/morocco,2022-03-25 08:20:37
+MC,MCO,Monaco,EU,3.5,2,https://www.travel-advisory.info/monaco,2022-03-25 08:20:37
+MD,MDA,Moldova,EU,3.8,5,https://www.travel-advisory.info/moldova,2022-03-25 08:20:37
+ME,MNE,Montenegro,EU,4.2,5,https://www.travel-advisory.info/montenegro,2022-03-25 08:20:37
+MF,MAF,Saint Martin,NA,0,0,https://www.travel-advisory.info/saint-martin,2022-03-25 08:20:37
+MG,MDG,Madagascar,AF,3.3,6,https://www.travel-advisory.info/madagascar,2022-03-25 08:20:37
+MH,MHL,Marshall Islands,OC,4.5,2,https://www.travel-advisory.info/marshall-islands,2022-03-25 08:20:37
+MK,MKD,Macedonia,EU,4,3,https://www.travel-advisory.info/macedonia,2022-03-25 08:20:37
+ML,MLI,Mali,AF,4.6,8,https://www.travel-advisory.info/mali,2022-03-25 08:20:37
+MM,MMR,Myanmar,AS,4.6,8,https://www.travel-advisory.info/myanmar,2022-03-25 08:20:37
+MN,MNG,Mongolia,AS,4,4,https://www.travel-advisory.info/mongolia,2022-03-25 08:20:37
+MO,MAC,Macao,AS,3.7,3,https://www.travel-advisory.info/macao,2022-03-25 08:20:37
+MP,MNP,Northern Mariana Islands,OC,0,0,https://www.travel-advisory.info/northern-mariana-islands,2022-03-25 08:20:37
+MQ,MTQ,Martinique,NA,4,1,https://www.travel-advisory.info/martinique,2022-03-25 08:20:37
+MR,MRT,Mauritania,AF,3.8,6,https://www.travel-advisory.info/mauritania,2022-03-25 08:20:37
+MS,MSR,Montserrat,NA,3,2,https://www.travel-advisory.info/montserrat,2022-03-25 08:20:37
+MT,MLT,Malta,EU,4.3,4,https://www.travel-advisory.info/malta,2022-03-25 08:20:37
+MU,MUS,Mauritius,AF,4.3,4,https://www.travel-advisory.info/mauritius,2022-03-25 08:20:37
+MV,MDV,Maldives,AS,4,7,https://www.travel-advisory.info/maldives,2022-03-25 08:20:37
+MW,MWI,Malawi,AF,3.6,5,https://www.travel-advisory.info/malawi,2022-03-25 08:20:37
+MX,MEX,Mexico,NA,3.6,7,https://www.travel-advisory.info/mexico,2022-03-25 08:20:37
+MY,MYS,Malaysia,AS,3.7,6,https://www.travel-advisory.info/malaysia,2022-03-25 08:20:37
+MZ,MOZ,Mozambique,AF,3,6,https://www.travel-advisory.info/mozambique,2022-03-25 08:20:37
+NA,NAM,Namibia,AF,3.2,5,https://www.travel-advisory.info/namibia,2022-03-25 08:20:37
+NC,NCL,New Caledonia,OC,4.5,2,https://www.travel-advisory.info/new-caledonia,2022-03-25 08:20:37
+NE,NER,Niger,AF,4.3,6,https://www.travel-advisory.info/niger,2022-03-25 08:20:37
+NF,NFK,Norfolk Island,OC,0,0,https://www.travel-advisory.info/norfolk-island,2022-03-25 08:20:37
+NG,NGA,Nigeria,AF,3.8,8,https://www.travel-advisory.info/nigeria,2022-03-25 08:20:37
+NI,NIC,Nicaragua,NA,3.8,5,https://www.travel-advisory.info/nicaragua,2022-03-25 08:20:37
+NL,NLD,Netherlands,EU,4,6,https://www.travel-advisory.info/netherlands,2022-03-25 08:20:37
+NO,NOR,Norway,EU,3.8,5,https://www.travel-advisory.info/norway,2022-03-25 08:20:37
+NP,NPL,Nepal,AS,3.3,6,https://www.travel-advisory.info/nepal,2022-03-25 08:20:37
+NU,NIU,Niue,OC,0,0,https://www.travel-advisory.info/niue,2022-03-25 08:20:37
+NZ,NZL,New Zealand,OC,4.3,4,https://www.travel-advisory.info/new-zealand,2022-03-25 08:20:37
+OM,OMN,Oman,AS,3.8,5,https://www.travel-advisory.info/oman,2022-03-25 08:20:37
+PA,PAN,Panama,NA,4,4,https://www.travel-advisory.info/panama,2022-03-25 08:20:37
+PE,PER,Peru,SA,4,6,https://www.travel-advisory.info/peru,2022-03-25 08:20:37
+PF,PYF,French Polynesia,OC,5,2,https://www.travel-advisory.info/french-polynesia,2022-03-25 08:20:37
+PG,PNG,Papua New Guinea,OC,3.8,5,https://www.travel-advisory.info/papua-new-guinea,2022-03-25 08:20:37
+PH,PHL,Philippines,AS,3.4,9,https://www.travel-advisory.info/philippines,2022-03-25 08:20:37
+PK,PAK,Pakistan,AS,3.8,8,https://www.travel-advisory.info/pakistan,2022-03-25 08:20:37
+PL,POL,Poland,EU,3.8,5,https://www.travel-advisory.info/poland,2022-03-25 08:20:37
+PM,SPM,Saint Pierre and Miquelon,NA,0,0,https://www.travel-advisory.info/saint-pierre-and-miquelon,2022-03-25 08:20:37
+PN,PCN,Pitcairn,OC,0,0,https://www.travel-advisory.info/pitcairn,2022-03-25 08:20:37
+PR,PRI,Puerto Rico,NA,4,1,https://www.travel-advisory.info/puerto-rico,2022-03-25 08:20:37
+PS,PSE,Palestinian Territory,AS,3,3,https://www.travel-advisory.info/palestinian-territory,2022-03-25 08:20:37
+PT,PRT,Portugal,EU,3.7,6,https://www.travel-advisory.info/portugal,2022-03-25 08:20:37
+PW,PLW,Palau,OC,3.5,2,https://www.travel-advisory.info/palau,2022-03-25 08:20:37
+PY,PRY,Paraguay,SA,4,5,https://www.travel-advisory.info/paraguay,2022-03-25 08:20:37
+QA,QAT,Qatar,AS,4.3,4,https://www.travel-advisory.info/qatar,2022-03-25 08:20:37
+RE,REU,Reunion,AF,4,1,https://www.travel-advisory.info/reunion,2022-03-25 08:20:37
+RO,ROU,Romania,EU,4,6,https://www.travel-advisory.info/romania,2022-03-25 08:20:37
+RS,SRB,Serbia,EU,3.6,5,https://www.travel-advisory.info/serbia,2022-03-25 08:20:37
+RU,RUS,Russia,EU,4.4,8,https://www.travel-advisory.info/russia,2022-03-25 08:20:37
+RW,RWA,Rwanda,AF,3.2,5,https://www.travel-advisory.info/rwanda,2022-03-25 08:20:37
+SA,SAU,Saudi Arabia,AS,3.5,6,https://www.travel-advisory.info/saudi-arabia,2022-03-25 08:20:37
+SB,SLB,Solomon Islands,OC,4.3,3,https://www.travel-advisory.info/solomon-islands,2022-03-25 08:20:37
+SC,SYC,Seychelles,AF,4.3,4,https://www.travel-advisory.info/seychelles,2022-03-25 08:20:37
+SD,SDN,Sudan,AF,4.3,8,https://www.travel-advisory.info/sudan,2022-03-25 08:20:37
+SE,SWE,Sweden,EU,4.4,5,https://www.travel-advisory.info/sweden,2022-03-25 08:20:37
+SG,SGP,Singapore,AS,3.8,5,https://www.travel-advisory.info/singapore,2022-03-25 08:20:37
+SH,SHN,Saint Helena,AF,0,0,https://www.travel-advisory.info/saint-helena,2022-03-25 08:20:37
+SI,SVN,Slovenia,EU,4.3,4,https://www.travel-advisory.info/slovenia,2022-03-25 08:20:37
+SJ,SJM,Svalbard and Jan Mayen,EU,0,0,https://www.travel-advisory.info/svalbard-and-jan-mayen,2022-03-25 08:20:37
+SK,SVK,Slovakia,EU,4.3,4,https://www.travel-advisory.info/slovakia,2022-03-25 08:20:37
+SL,SLE,Sierra Leone,AF,4,4,https://www.travel-advisory.info/sierra-leone,2022-03-25 08:20:37
+SM,SMR,San Marino,EU,5,1,https://www.travel-advisory.info/san-marino,2022-03-25 08:20:37
+SN,SEN,Senegal,AF,3.6,5,https://www.travel-advisory.info/senegal,2022-03-25 08:20:37
+SO,SOM,Somalia,AF,5,7,https://www.travel-advisory.info/somalia,2022-03-25 08:20:37
+SR,SUR,Suriname,SA,4.5,2,https://www.travel-advisory.info/suriname,2022-03-25 08:20:37
+SS,SSD,South Sudan,AF,5,4,https://www.travel-advisory.info/south-sudan,2022-03-25 08:20:37
+ST,STP,Sao Tome and Principe,AF,2.5,2,https://www.travel-advisory.info/sao-tome-and-principe,2022-03-25 08:20:37
+SV,SLV,El Salvador,NA,3.3,6,https://www.travel-advisory.info/el-salvador,2022-03-25 08:20:37
+SY,SYR,Syria,AS,5,8,https://www.travel-advisory.info/syria,2022-03-25 08:20:37
+SZ,SWZ,Swaziland,AF,3.3,3,https://www.travel-advisory.info/swaziland,2022-03-25 08:20:37
+TC,TCA,Turks and Caicos Islands,NA,4,2,https://www.travel-advisory.info/turks-and-caicos-islands,2022-03-25 08:20:37
+TD,TCD,Chad,AF,4.2,6,https://www.travel-advisory.info/chad,2022-03-25 08:20:37
+TG,TGO,Togo,AF,2.3,3,https://www.travel-advisory.info/togo,2022-03-25 08:20:37
+TH,THA,Thailand,AS,3.4,7,https://www.travel-advisory.info/thailand,2022-03-25 08:20:37
+TJ,TJK,Tajikistan,AS,3.8,5,https://www.travel-advisory.info/tajikistan,2022-03-25 08:20:37
+TL,TLS,East Timor,OC,3.6,5,https://www.travel-advisory.info/east-timor,2022-03-25 08:20:37
+TM,TKM,Turkmenistan,AS,3.6,5,https://www.travel-advisory.info/turkmenistan,2022-03-25 08:20:37
+TN,TUN,Tunisia,AF,3.4,8,https://www.travel-advisory.info/tunisia,2022-03-25 08:20:37
+TO,TON,Tonga,OC,4.5,2,https://www.travel-advisory.info/tonga,2022-03-25 08:20:37
+TR,TUR,Turkey,AS,3.9,8,https://www.travel-advisory.info/turkey,2022-03-25 08:20:37
+TT,TTO,Trinidad and Tobago,NA,4,5,https://www.travel-advisory.info/trinidad-and-tobago,2022-03-25 08:20:37
+TV,TUV,Tuvalu,OC,5,1,https://www.travel-advisory.info/tuvalu,2022-03-25 08:20:37
+TW,TWN,Taiwan,AS,4,3,https://www.travel-advisory.info/taiwan,2022-03-25 08:20:37
+TZ,TZA,Tanzania,AF,3.7,6,https://www.travel-advisory.info/tanzania,2022-03-25 08:20:37
+UA,UKR,Ukraine,EU,4.7,9,https://www.travel-advisory.info/ukraine,2022-03-25 08:20:37
+UG,UGA,Uganda,AF,3.5,6,https://www.travel-advisory.info/uganda,2022-03-25 08:20:37
+US,USA,United States,NA,3,3,https://www.travel-advisory.info/united-states,2022-03-25 08:20:37
+UY,URY,Uruguay,SA,4.3,4,https://www.travel-advisory.info/uruguay,2022-03-25 08:20:37
+UZ,UZB,Uzbekistan,AS,3.8,5,https://www.travel-advisory.info/uzbekistan,2022-03-25 08:20:37
+VA,VAT,Vatican,EU,5,1,https://www.travel-advisory.info/vatican,2022-03-25 08:20:37
+VC,VCT,Saint Vincent and the Grenadines,NA,4,2,https://www.travel-advisory.info/saint-vincent-and-the-grenadines,2022-03-25 08:20:37
+VE,VEN,Venezuela,SA,4.1,8,https://www.travel-advisory.info/venezuela,2022-03-25 08:20:37
+VG,VGB,British Virgin Islands,NA,4,2,https://www.travel-advisory.info/british-virgin-islands,2022-03-25 08:20:37
+VI,VIR,U.S. Virgin Islands,NA,4,1,https://www.travel-advisory.info/us-virgin-islands,2022-03-25 08:20:37
+VN,VNM,Vietnam,AS,3.5,6,https://www.travel-advisory.info/vietnam,2022-03-25 08:20:37
+VU,VUT,Vanuatu,OC,5,2,https://www.travel-advisory.info/vanuatu,2022-03-25 08:20:37
+WF,WLF,Wallis and Futuna,OC,0,0,https://www.travel-advisory.info/wallis-and-futuna,2022-03-25 08:20:37
+WS,WSM,Samoa,OC,4.3,3,https://www.travel-advisory.info/samoa,2022-03-25 08:20:37
+XK,XKX,Kosovo,EU,4.4,5,https://www.travel-advisory.info/kosovo,2022-03-25 08:20:37
+YE,YEM,Yemen,AS,5,8,https://www.travel-advisory.info/yemen,2022-03-25 08:20:37
+YT,MYT,Mayotte,AF,4,1,https://www.travel-advisory.info/mayotte,2022-03-25 08:20:37
+ZA,ZAF,South Africa,AF,3.7,7,https://www.travel-advisory.info/south-africa,2022-03-25 08:20:37
+ZM,ZMB,Zambia,AF,3.5,4,https://www.travel-advisory.info/zambia,2022-03-25 08:20:37
+ZW,ZWE,Zimbabwe,AF,3.6,5,https://www.travel-advisory.info/zimbabwe,2022-03-25 08:20:37
